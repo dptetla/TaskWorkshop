@@ -17,13 +17,13 @@ public class TaskManager {
         }
     }
 
-//    public static void main(String[] args) {
-//        options();
-//        File file = new File("")
-//        Scanner scanner = new Scanner("tasks.csv"){
-//
-//        }
-//    }
+    public static void main(String[] args) {
+        options();
+        File file = new File("")
+        Scanner scanner = new Scanner("tasks.csv"){
+
+        }
+    }
 
 
 
